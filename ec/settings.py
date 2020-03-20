@@ -15,7 +15,7 @@ SPIDER_MODULES = ['ec.spiders']
 NEWSPIDER_MODULE = 'ec.spiders'
 
 
-LOG_LEVEL = 'WARNING'
+# LOG_LEVEL = 'WARNING'
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'ec (+http://www.yourdomain.com)'
 
